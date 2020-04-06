@@ -1,7 +1,7 @@
 ## resume
 ## code demonstartion for employers
 
-html5, css3, jquery, bootstrap-grid, git, sass compass, bem, partially - gulp, npm, 
+html5, css3, jquery, bootstrap-grid, git, sass compass, bem, partially - gulp, npm 
 
 team-player, easily teach new skills
 
